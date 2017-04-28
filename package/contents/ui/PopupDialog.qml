@@ -103,7 +103,7 @@ FocusScope {
         }
         PlasmaComponents.ToolButton {
             Layout.fillWidth: true
-            iconSource: "emblem-shared-symbolic"
+            iconSource: "document-share"
             tooltip: i18n("Configure shared resources...")
 
             text: i18n("Shared resources")
