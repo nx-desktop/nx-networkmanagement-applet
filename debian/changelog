@@ -1,0 +1,5 @@
+nomad-networkmanagement-applet (1.0.0-1) unstable; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Alexis López Zubieta <azubieta90@gmail.com>  Sat, 27 May 2017 15:30:52 -0500
