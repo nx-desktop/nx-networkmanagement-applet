@@ -1,4 +1,4 @@
-Source: nomad-networkmanagement-applet
+Source: nx-networkmanagement-applet
 Section: KDE
 Priority: optional
 Maintainer: Alexis López Zubieta <azubieta90@gmail.com>
@@ -7,7 +7,7 @@ Standards-Version: 3.9.6
 #Vcs-Git: git://anonscm.debian.org/collab-maint/nomad-networkmanagement-applet.git
 #Vcs-Browser: https://anonscm.debian.org/cgit/collab-maint/nomad-networkmanagement-applet.git
 
-Package: nomad-networkmanagement-applet
+Package: nx-networkmanagement-applet
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}, plasma-nm
 Description: <insert up to 60 chars description>

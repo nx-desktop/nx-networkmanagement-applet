@@ -1,10 +1,10 @@
-nomad-networkmanagement-applet (1.0.1-1) unstable; urgency=medium
+nx-networkmanagement-applet (1.0.1-1) unstable; urgency=medium
 
   * Removed symbolic iconr reference.
 
  -- Uri Herrera <uri_herrera@nitrux.in>  Mon, 23 Apr 2018 00:29:00 -0500
 
-nomad-networkmanagement-applet (1.0.0-1) unstable; urgency=medium
+nx-networkmanagement-applet (1.0.0-1) unstable; urgency=medium
 
   * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
 
