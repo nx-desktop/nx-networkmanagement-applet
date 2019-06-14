@@ -1,4 +1,4 @@
-# Nx Network Management Applet [![Build Status](https://travis-ci.org/nx-desktop/nx-networkmanagement-applet.svg?branch=master)](https://travis-ci.org/nx-desktop/nx-networkmanagement-applet)
+# NX Network Management Applet [![Build Status](https://travis-ci.org/nx-desktop/nx-networkmanagement-applet.svg?branch=master)](https://travis-ci.org/nx-desktop/nx-networkmanagement-applet)
 
 This is the repository for the Network Manager used in Nitrux.
 
