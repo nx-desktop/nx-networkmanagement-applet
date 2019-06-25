@@ -1,4 +1,4 @@
-project(nomad-networkmanagement-applet)
+project(nx-networkmanagement-applet)
 
 set(PROJECT_VERSION "1.0")
 set(PROJECT_VERSION_MAJOR 1)
@@ -19,6 +19,6 @@ include(FeatureSummary)
 find_package(KF5 REQUIRED
     I18n Plasma)
 
-plasma_install_package(package org.nomad.networkmanagement)
+plasma_install_package(package org.nx.networkmanagement)
 
 feature_summary(WHAT ALL INCLUDE_QUIET_PACKAGES FATAL_ON_MISSING_REQUIRED_PACKAGES)

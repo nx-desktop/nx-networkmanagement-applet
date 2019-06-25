@@ -1,14 +1,12 @@
 Source: nx-networkmanagement-applet
 Section: KDE
 Priority: optional
-Maintainer: Alexis López Zubieta <azubieta90@gmail.com>
+Maintainer: Uri Hererra <uri_herrera@nxos.org>
 Build-Depends: debhelper (>=9), cmake, extra-cmake-modules, libkf5i18n-dev, plasma-framework-dev, libkf5windowsystem-dev
 Standards-Version: 3.9.6
-#Vcs-Git: git://anonscm.debian.org/collab-maint/nomad-networkmanagement-applet.git
-#Vcs-Browser: https://anonscm.debian.org/cgit/collab-maint/nomad-networkmanagement-applet.git
 
 Package: nx-networkmanagement-applet
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}, plasma-nm
-Description: <insert up to 60 chars description>
- <insert long description, indented with spaces>
+Description: Network management replacement for Nitrux
+ NX Networks is a networkmanager widget for Plasma 5.

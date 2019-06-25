@@ -1,7 +1,7 @@
 [Desktop Entry]
-Name=Nx Networks
+Name=NX Networks
 
-Comment=Nx network status and control
+Comment=Network status and control
 
 Icon=org.kde.plasma.networkmanagement
 Type=Service
@@ -13,7 +13,7 @@ X-Plasma-MainScript=ui/main.qml
 X-Plasma-NotificationArea=true
 X-Plasma-DBusActivationService=org.freedesktop.NetworkManager
 
-X-KDE-PluginInfo-Name=org.nomad.networkmanagement
+X-KDE-PluginInfo-Name=org.nx.networkmanagement
 X-KDE-PluginInfo-Category=System Information
 X-KDE-PluginInfo-Author=Alexis López Zubieta
 X-KDE-PluginInfo-Email=azubieta90@gmail.com
