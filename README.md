@@ -2,8 +2,6 @@
 
 This is the repository for the Network Manager used in Nitrux.
 
-![](https://i.imgur.com/NdmVw4x.png)
-
 # Requirements
 - Qt 5.8+.
 - Qml.
