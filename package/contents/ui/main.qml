@@ -28,8 +28,9 @@ Item {
     id: mainWindow
 
     property bool showSections: true
-    readonly property string kcm: "kcm_networkmanagement.desktop"
-    readonly property bool kcmAuthorized: KCMShell.authorize(kcm).length == 1
+    
+    readonly property string kcm: "kcm_networkmanagement"
+    readonly property bool kcmAuthorized: KCMShell.authorize("kcm_networkmanagement.desktop").length == 1
 
     Plasmoid.toolTipMainText: i18n("Networks")
     Plasmoid.toolTipSubText: networkStatus.activeConnections
