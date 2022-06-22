@@ -1,3 +1,9 @@
+nx-networkmanagement-applet (1.0.5) nxos; urgency=medium
+
+  * Fix error finding network management kcm, again.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Wed, 22 Jun 2022 16:26:00 -0500
+
 nx-networkmanagement-applet (1.0.4) nxos; urgency=medium
 
   * Fix error finding network management kcm.
